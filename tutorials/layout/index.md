@@ -111,7 +111,7 @@ summary: 本文详细的介绍了如何使用Flutter构建用户界面，然后�
 <aside class="alert alert-info" markdown="1">
 **Note:**
 If you have problems, you can check your code against
-[`lib/main.dart`](https://raw.githubusercontent.com/flutter/website/master/_includes/code/layout/lakes/main.dart)
+[`lib/main.dart`](https://github.com/flutterchina/website/blob/master/_includes/code/layout/lakes/main.dart)
 on GitHub.
 </aside>
 
